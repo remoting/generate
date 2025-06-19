@@ -1,4 +1,4 @@
-module igen
+module github.com/remoting/generate
 
 go 1.23.7
 

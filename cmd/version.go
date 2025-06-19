@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"igen/pkg"
-	"igen/pkg/version"
+	"github.com/remoting/generate/pkg"
+	"github.com/remoting/generate/pkg/version"
 
 	"github.com/spf13/cobra"
 )
